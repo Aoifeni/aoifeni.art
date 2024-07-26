@@ -1778,7 +1778,8 @@ input, select, textarea {
 		#nav a {
 			position: relative;
 			display: inline-block;
-			color: #F5D9CF;
+			color: #ffffff;
+			/* color: #F5D9CF; */
 			width: 1em;
 			height: 1em;
 			line-height: 0.9em;
@@ -1947,7 +1948,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		width: 100%;
-		background: #B79D94;
+		background: #ffffff; /* main colour block background - i thought, but apparently not??*/
 		box-shadow: 0px 1px 0px 0px rgba(0, 0, 0, 0.25);
 		-moz-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
 		-webkit-transition: min-height 0.5s ease-in-out, max-height 0.5s ease-in-out;
